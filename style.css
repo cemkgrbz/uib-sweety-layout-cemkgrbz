@@ -99,6 +99,7 @@ span {
     border-radius: 5px;
 }
 
+
 .container {
     display: flex;
     justify-content: center;
@@ -157,6 +158,13 @@ p {
     line-height: 1.5rem;
     color: rgb(81, 81, 81);
   }
+
+.shop-now:hover, .read-button:hover {
+    cursor: pointer;
+    background-color: #210043;
+    color: white;
+    border: 2px solid white;
+}
 
 @media (max-width: 50em) { 
     nav {
