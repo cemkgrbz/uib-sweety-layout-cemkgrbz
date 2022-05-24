@@ -9,6 +9,12 @@ body {
     background-color: rgba(150, 150, 150, 0.2);
   }
 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -103,14 +109,17 @@ span {
 .container {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     padding: 1rem;
+    width: 80rem;
+    margin: auto;
   }
 
 .donut-card {
     margin: 0.5rem;
     padding: 2rem;
-    width: 240px;
+    width: 20rem;
     background-color: #dbfdf3;
     border-radius: 3px;
     text-align: center;
@@ -142,7 +151,7 @@ h3 {
 .donut-card-big {
     margin: 0.5rem;
     padding: 2rem;
-    width: 365px;
+    width: 30rem;
     background-color: #dbfdf3;
     border-radius: 3px;
     text-align: center;
@@ -175,6 +184,10 @@ p {
         position: relative;
         display: inline-block;
         cursor: pointer;
+    }
+
+    .container {
+        width: ;
     }
 
       
