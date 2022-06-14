@@ -12,7 +12,7 @@ Notice:
 - Menu links should have a deep pink underline on hover
 - Icons should have a deep pink background on hover
 
-## Mobile
+## Mobile 
 ![mobile](designs/mobile.png)
 
 ## Tablet
