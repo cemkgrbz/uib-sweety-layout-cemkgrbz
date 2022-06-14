@@ -81,7 +81,7 @@ h2 {
 .main-img {
     width: 100%;
     height: 20rem;
-    background-image: url(/images/sweetBg.jpg);
+    background-image: url(./images/sweetBg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right 40% bottom 40%;
